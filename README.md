@@ -10,7 +10,7 @@ Here's a sample of this functionalities working and how the look and feel should
 
 ![Example GIF](./example.gif)
 
-_You can style the project components however you want. Css, Sass, Less, Styled Components..._
+_You can style the project components however you want. CSS, Sass, Less, Styled Components..._
 
 **Also, we will ask to be able to:**
 - Run the project locally by running `npm start`
