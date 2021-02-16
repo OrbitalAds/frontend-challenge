@@ -13,6 +13,8 @@
 - you didn't create more than the necessary DOM elements
 - you delivered a good solution eventhough not all functionalities work
 
+_Tip: We encourage the usage of React API's *Children* functions._
+
 Here's a sample of this functionalities working and how the look and feel should look like:
 
 ![Example GIF](./example.gif)
